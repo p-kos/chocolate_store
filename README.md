@@ -1,5 +1,12 @@
 # Informe de Análisis de Predicción de Ventas
 
+## Trabajo Final Modelos Lineales
+
+### Docente: MSc. Edgar Jaldín Torrico
+
+### Ing. Marco A. Zárate Z.
+
+
 ## Introducción
 
 Este informe presenta un análisis exhaustivo de los datos de ventas de una tienda de chocolates con el objetivo de desarrollar un modelo de predicción para las ventas futuras. Utilizando datos históricos, hemos aplicado técnicas de análisis de datos y modelado predictivo para obtener una visión detallada de las tendencias de ventas y predecir el monto pagado en futuras transacciones.
@@ -34,6 +41,7 @@ El objetivo general de este análisis es desarrollar un modelo predictivo que pe
     
     * Usar métricas como MAE, RMSE y R².
 
+
 5. Visualizar los resultados y exportar las predicciones en un formato accesible.
 
 ## Análisis
@@ -58,7 +66,7 @@ Para fines de trabajo se subió el archivo CSV a Google Drive y el código se en
 
 #### Manejo de Valores Faltantes
 
-Los valores faltantes en la columna ClientName fueron llenados con 'Unknown' para asegurar que no se perdiera información relevante.
+Los valores faltantes en la columna ClientName fueron llenados con 'Sin Nombre' para asegurar que no se perdiera información relevante.
 
 #### Eliminación de Valores Negativos
 
